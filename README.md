@@ -1,4 +1,4 @@
-https://www.anduril.com/barracuda/
+https://www.anduril.com/barracuda/ \n
 https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)
 https://ai.meta.com/blog/meta-llama-3-1/
 https://eureka-research.github.io/dr-eureka/
